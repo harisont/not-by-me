@@ -1,7 +1,7 @@
 # not by me
 stuff i did not make myself
 
-## gender
+## gender awareness
 - [tmcalc](https://kappanneo.github.io/tmcalc/)
 - [zaimki](https://gitlab.com/avris/zaimki/)
 

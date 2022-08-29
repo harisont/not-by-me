@@ -2,7 +2,7 @@
 stuff i did not make myself
 
 ## gender awareness
-- [tmcalc](https://kappanneo.github.io/tmcalc/)
+- [tmcalc](https://harisont.github.io/tmcalc/)
 - [zaimki](https://gitlab.com/avris/zaimki/)
 
 ## esolangs
